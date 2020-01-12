@@ -1,0 +1,16 @@
+,Product,Screen Size Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price_euros
+1,MacBook Pro,13.3,2560x1600,i5,8,128GB SSD,Intel Iris Plus Graphics 640,macOS,1.37kg,1339.69
+2,Macbook Air,13.3,1440x900,i5,8,128GB Flash Storage,Intel HD Graphics 6000,macOS,1.34kg,898.94
+3,250 G6,15.6,1920x1080,i5,8,256GB SSD,Intel HD Graphics 620,No OS,1.86kg,575
+4,MacBook Pro,15.4,2880x1800,i7,16,512GB SSD,AMD Radeon Pro 455,macOS,1.83kg,2537.45
+5,MacBook Pro,13.3,2560x1600,i5,8,256GB SSD,Intel Iris Plus Graphics 650,macOS,1.37kg,1803.6
+6,Aspire 3,15.6,1366x768,A9,4,500GB HDD,AMD Radeon R5,Windows 10,2.1kg,400
+7,MacBook Pro,15.4,2880x1800,i7,16,256GB Flash Storage,Intel Iris Pro Graphics,Mac OS X,2.04kg,2139.97
+8,Macbook Air,13.3,1440x900,i5,8,256GB Flash Storage,Intel HD Graphics 6000,macOS,1.34kg,1158.7
+9,ZenBook UX430UN,14,1920x1080,i7,16,512GB SSD,Nvidia GeForce MX150,Windows 10,1.3kg,1495
+10,Swift 3,14,1920x1080,i5,8,256GB SSD,Intel UHD Graphics 620,Windows 10,1.6kg,770
+11,250 G6,15.6,1366x768,i5,4,500GB HDD,Intel HD Graphics 620,No OS,1.86kg,393.9
+12,250 G6,15.6,1920x1080,i3,4,500GB HDD,Intel HD Graphics 520,No OS,1.86kg,344.99
+13,MacBook Pro,15.4,2880x1800,i7,16,256GB SSD,AMD Radeon Pro 555,macOS,1.83kg,2439.97
+14,Inspiron 3567,15.6,1920x1080,i3,4,256GB SSD,AMD Radeon R5 M430,Windows 10,2.2kg,498.9
+15,"MacBook 12""",12,2304x1440,m3,8,256GB SSD,Intel HD Graphics 615,macOS,0.92kg,1262.4
